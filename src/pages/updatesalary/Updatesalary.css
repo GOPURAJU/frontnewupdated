@@ -1,0 +1,8 @@
+.form1{
+  max-width: 1200px!important;
+  display: flex;
+  flex-wrap: wrap;
+}
+.submit{
+  margin-left: 850px!important;
+}

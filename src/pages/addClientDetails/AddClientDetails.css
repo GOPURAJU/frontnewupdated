@@ -1,0 +1,12 @@
+button.px-2.ere.btn.btn-danger {
+  top: 482px;
+  left: 363px;
+  width: 125px;
+  /* height: 47px; */
+  background: #ff0303 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.container-large{
+  background:#7ba3e559;
+}
